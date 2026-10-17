@@ -1,6 +1,15 @@
 {
-  "status": "initializing",
-  "downloadCount": null,
-  "downloadStatus": "waiting",
-  "sourceUrl": "https://www.curseforge.com/members/fox_studios_by_teolm30/projects"
+  "downloadCount": 11542,
+  "modsCount": 31,
+  "publishedProjects": 31,
+  "projectTypes": "all-published",
+  "downloadCheckedAt": "2026-10-17T08:11:27.885Z",
+  "modsCheckedAt": "2026-10-17T08:11:27.885Z",
+  "downloadDelta": 0,
+  "modsDelta": 0,
+  "downloadStatus": "verified",
+  "modsStatus": "verified",
+  "sourceUrl": "https://www.curseforge.com/members/fox_studios_by_teolm30/projects",
+  "source": "official-curseforge-profile",
+  "status": "verified"
 }
